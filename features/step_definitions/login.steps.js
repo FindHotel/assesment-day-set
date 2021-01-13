@@ -3,7 +3,7 @@ import { Then, setDefaultTimeout } from 'cucumber'
 
 export const USER_EMAIL = 'gabriel+integration@findhotel.net'
 export const USER_PASSWORD = 'Test.123'
-export const SIGN_IN_CTA = "[data-test-id='SignInButton']"
+export const SIGN_IN_CTA = "[data-test-id='LogInButton']"
 export const USER_WIDGET = "[data-test-id='UserWidget']"
 
 setDefaultTimeout(100 * 1000)
