@@ -24,8 +24,8 @@ npm install
 You should have an `.env` file with the variables pointing to the environment you target on your test:
 
 ```env
-SEARCH_BASE_URI = 'https://vova.findhotel.net'
-HOTEL_PAGES_URI = 'https://checkout.stag.bofh.fih.io'
+SEARCH_BASE_URI = 'https://search.findhotel.net/'
+HOTEL_PAGES_URI = 'https://secure.findhotel.net/'
 ```
 
 ### Running
