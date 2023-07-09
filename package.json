@@ -12,7 +12,7 @@
     "cucumber": "^6.0.5",
     "dotenv-flow": "^3.1.0",
     "expect": "^26.0.1",
-    "jest": "^25.4.0",
+    "jest": "^29.6.1",
     "playwright": "^1.7.1"
   },
   "dependencies": {
